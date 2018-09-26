@@ -1,6 +1,3 @@
-server:
-  port: 8081
-  ip: 127.0.0.1
 eureka:
   client:
     register-with-eureka: false
